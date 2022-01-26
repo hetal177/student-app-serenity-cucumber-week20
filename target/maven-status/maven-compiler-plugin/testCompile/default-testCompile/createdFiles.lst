@@ -1,0 +1,5 @@
+com\studentapp\cucumber\steps\GetAllRecords.class
+com\studentapp\cucumber\CucumberRunnerRegression.class
+com\studentapp\cucumber\steps\CrudOperation.class
+com\studentapp\testbase\TestBase.class
+com\studentapp\cucumber\CucumberRunnerSmoke.class
